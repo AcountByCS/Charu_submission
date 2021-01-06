@@ -1,0 +1,12 @@
+.card-header{
+    font-family: cursive;
+    color: white;
+    background-color: black;
+
+}
+.card-body {
+    background-color: burlywood;
+    padding: 15.25rem !important;
+    font-family: cursive;
+    display: block;
+}
